@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Notable&display=swap');
+
+body{
+    text-align: center;
+    margin: auto;
+}
+
+header{
+    background-color: #F2F2F2;
+    font-family: "New Amsterdam", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding: 16PX;
+  size: 16px;
+}
+
+img{
+    float: left;
+    width: 152px;
+    border-radius: 100px;
+}
+
+h3{
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+  }
+
+  nav a{
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    display: inline-block;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  nav a:hover{
+    background-color: rgb(255, 255, 255);
+  }
+
+  .green{
+    color: white;
+  }
+
+  h2{
+    font-family: "Notable", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+  }
+
+  footer img{
+    width: 30%;
+    height: 400px;
+    border-radius: 0%;
+    margin-left: 35%;
+  }
